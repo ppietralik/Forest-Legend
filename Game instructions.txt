@@ -1,0 +1,10 @@
+Controls:
+arrow up/W    -> move up
+arrow down/S  -> move down
+arrow left/A  -> move left
+arrow right/D -> move right
+
+Z/J -> action one
+X/K -> action two
+
+enter/e -> equipment
